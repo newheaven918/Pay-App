@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/thoughtbot/appraisal.git
-  revision: f5e31c48a1dda036a2c13663fad1b657a0953f5d
+  revision: be4fa01273dbff599e45a9ef0a3a04b89b23d920
   specs:
     appraisal (2.5.0)
       bundler
@@ -230,7 +230,7 @@ GEM
       thor (~> 1.0, >= 1.2.2)
       zeitwerk (~> 2.6)
     rainbow (3.1.1)
-    rake (13.1.0)
+    rake (13.2.1)
     rdoc (6.6.3.1)
       psych (>= 4.0.0)
     receipts (2.4.0)
